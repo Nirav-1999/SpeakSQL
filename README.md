@@ -1,3 +1,3 @@
 # SpeakSQL
 
-A web app that converts SQL queries to SQL commands using Dialogflow
+A web app that converts natural language commands to SQL commands using Dialogflow
